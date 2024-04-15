@@ -1,0 +1,21 @@
+{
+  "name": "hmrj2-simple-calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator with TypeScript, NOde.js and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "524727-simple-calculator": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Hamza",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
